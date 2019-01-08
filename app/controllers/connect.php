@@ -1,10 +1,10 @@
 
 <?php
 
-$host = "localhost";
-$username = "root";
-$password = "";
-$dbname = "to_do_app";
+$host = "db4free.net";
+$username = "lunaraymond";
+$password = "IccsNoob19";
+$dbname = "to_do_list";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
 
