@@ -4,7 +4,7 @@
 $host = "db4free.net";
 $username = "lunaraymond";
 $password = "IccsNoob19";
-$dbname = "to_do_list";
+$dbname = "to_do_app";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
 
